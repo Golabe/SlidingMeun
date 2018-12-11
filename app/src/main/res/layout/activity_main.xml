@@ -8,9 +8,9 @@
 
     <com.github.golabe.slidingmenu.library.SlidingMenu
         android:layout_width="match_parent"
-        app:sliding_menu_default_show="left"
+        app:sliding_menu_default_show="right"
         app:sliding_menu_padding="40dp"
-        app:sliding_menu_animation="false"
+        app:sliding_menu_animation="true"
         android:layout_height="match_parent">
 
         <LinearLayout

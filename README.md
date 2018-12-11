@@ -2,13 +2,13 @@
 ## 类似QQ 侧滑菜单
 
 <div align="center">
-<image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/a.jpg?raw=true" width="400"/>
+<image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/a.gif?raw=true" width="400"/>
 </div>
 <div align="center">
-<image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/b.jpg?raw=true" width="400"/>
+<image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/b.gif?raw=true" width="400"/>
 </div>
 <div align="center">
-<image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/c.jpg?raw=true" width="400"/>
+<image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/c.gif?raw=true" width="400"/>
 </div>
 ## 使用
 ### XML

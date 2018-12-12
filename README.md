@@ -11,6 +11,10 @@
 <image src="https://github.com/Golabe/SlidingMeun/blob/master/gifs/c.gif?raw=true" width="400"/>
 </div>
 ## 使用
+### GRADLE 
+``xml
+implementation 'com.github.golabe.slidingmeun:library:1.0.0'
+```
 ### XML
 ```xml
   <com.github.golabe.slidingmenu.library.SlidingMenu
